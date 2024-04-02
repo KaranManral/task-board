@@ -397,7 +397,7 @@ function App() {
                       </p>
                     </div>
                     <br />
-                    <p className="text-start">{obj.description}</p>
+                    <p className="text-start break-words">{obj.description}</p>
                     <br />
                     <div className="flex justify-between items-center">
                       <p className="font-bold">@{obj.assignee}</p>
@@ -513,7 +513,7 @@ function App() {
                       </p>
                     </div>
                     <br />
-                    <p className="text-start">{obj.description}</p>
+                    <p className="text-start break-words">{obj.description}</p>
                     <br />
                     <div className="flex justify-between items-center">
                       <p className="font-bold">@{obj.assignee}</p>
@@ -629,7 +629,7 @@ function App() {
                       </p>
                     </div>
                     <br />
-                    <p className="text-start">{obj.description}</p>
+                    <p className="text-start break-words">{obj.description}</p>
                     <br />
                     <div className="flex justify-between items-center">
                       <p className="font-bold">@{obj.assignee}</p>
@@ -745,7 +745,7 @@ function App() {
                       </p>
                     </div>
                     <br />
-                    <p className="text-start">{obj.description}</p>
+                    <p className="text-start break-words">{obj.description}</p>
                     <br />
                     <div className="flex justify-between items-center">
                       <p className="font-bold">@{obj.assignee}</p>
@@ -861,7 +861,7 @@ function App() {
                       </p>
                     </div>
                     <br />
-                    <p className="text-start">{obj.description}</p>
+                    <p className="text-start break-words">{obj.description}</p>
                     <br />
                     <div className="flex justify-between items-center">
                       <p className="font-bold">@{obj.assignee}</p>
